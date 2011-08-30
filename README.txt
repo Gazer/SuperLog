@@ -1,1 +1,1 @@
-Don't read this.
+Plugin thread can be found here: http://forums.bukkit.org/threads/admn-sec-superlog-v2-0-a-very-simple-and-effective-logging-plugin-1060.29666/

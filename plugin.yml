@@ -1,4 +1,18 @@
 name: SuperLog
 main: com.thescreem.SuperLog
-version: 1.0
+version: 1.2
 author: thescreem
+description: SuperLog is a very simple logging plugin that can effectively catch greifers without the hassle of setting up a MySQL database.
+commands:
+  ms:
+    description: Enables the MagicStick.
+    usage: /ms
+  magicstick:
+    description: Enables the MagicStick.
+    usage: /magicstick
+  sl:
+    description: Shows you your config options for SuperLog.
+    usage: /sl config or /superlog config
+  superlog:
+    description: Shows you your config options for SuperLog.
+    usage: /sl config or /superlog config
